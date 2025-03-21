@@ -1,5 +1,5 @@
 # 💫 About Me:
-📱I am currently working at picpay as an IOS developer<br>📚 I've studied a little bit of everything, Java, Javascript, Android Studio, Spring Security, and others... but I really like design and art in general.<br>🐶I have the most beautiful dog in the world<br><br>
+📱I am currently working at picpay as an IOS developer<br>📚 I've studied a little bit of everything, Java, Javascript, Android Studio, Spring Security... but I really like design and art in general.<br>🐶I have the most beautiful dog in the world<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Losttttzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
